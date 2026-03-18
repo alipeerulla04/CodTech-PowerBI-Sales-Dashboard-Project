@@ -27,7 +27,7 @@ The project covers dashboard creation, data integration, real-time simulation, a
   * Top products
   * Regional performance
   * Customer contribution
-Screenshots/task1.png
+![Task 1](task1.png)
 ---
 
 ### 🔹 Task 2: Data Integration
@@ -35,7 +35,7 @@ Screenshots/task1.png
 * Combined data from multiple sources (Excel datasets)
 * Established relationships using **Customer_ID**
 * Built a unified data model for analysis
-Screenshots/task2.png
+![Task 2](task2.png)
 ---
 
 ### 🔹 Task 3: Real-Time Dashboard
@@ -46,7 +46,7 @@ Screenshots/task2.png
   * `RANDBETWEEN()` for live data simulation
 * Enabled auto-refresh for dynamic dashboard updates
 * Designed a real-time sales performance dashboard
-Screenshots/task3.png
+![Task 3](task3.png)
 ---
 
 ### 🔹 Task 4: Python Integration
@@ -57,7 +57,7 @@ Screenshots/task3.png
   * `pandas` for data manipulation
   * `matplotlib` for visualization
 * Created custom charts beyond default Power BI visuals
-Screenshots/task4.png
+![Task 4](task4.png)
 ---
 
 ## 🛠️ Tools & Technologies
