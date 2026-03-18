@@ -108,8 +108,9 @@ Through this internship project, I gained hands-on experience in:
 
 ## 🚀 Author
 
-**Ali**
+**SHAIK MOHAMMAD ALI PEERULLA**
 BTech 3rd Year Student
+GITAM UNIVERSITY HYDERABAD
 
 ---
 
