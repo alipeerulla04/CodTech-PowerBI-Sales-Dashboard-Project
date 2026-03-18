@@ -27,7 +27,7 @@ The project covers dashboard creation, data integration, real-time simulation, a
   * Top products
   * Regional performance
   * Customer contribution
-
+![Task 1 Dashboard](Screenshots/task1.png)
 ---
 
 ### 🔹 Task 2: Data Integration
@@ -35,7 +35,7 @@ The project covers dashboard creation, data integration, real-time simulation, a
 * Combined data from multiple sources (Excel datasets)
 * Established relationships using **Customer_ID**
 * Built a unified data model for analysis
-
+![Task 2 Dashboard](Screenshots/task2.png)
 ---
 
 ### 🔹 Task 3: Real-Time Dashboard
@@ -46,7 +46,7 @@ The project covers dashboard creation, data integration, real-time simulation, a
   * `RANDBETWEEN()` for live data simulation
 * Enabled auto-refresh for dynamic dashboard updates
 * Designed a real-time sales performance dashboard
-
+![Task 3 Dashboard](Screenshots/task3.png)
 ---
 
 ### 🔹 Task 4: Python Integration
@@ -57,7 +57,7 @@ The project covers dashboard creation, data integration, real-time simulation, a
   * `pandas` for data manipulation
   * `matplotlib` for visualization
 * Created custom charts beyond default Power BI visuals
-
+![Task 4 Dashboard](Screenshots/task4.png)
 ---
 
 ## 🛠️ Tools & Technologies
@@ -129,4 +129,4 @@ This project was completed as part of my internship at **CODTECH**, providing pr
 
 ## 🔗 Connect with Me
 
-(Add your LinkedIn profile link here)
+(www.linkedin.com/in/shaik-mohammad-ali-peerulla-8522973a4)
