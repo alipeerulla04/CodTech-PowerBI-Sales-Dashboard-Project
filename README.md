@@ -84,14 +84,6 @@ The project covers dashboard creation, data integration, real-time simulation, a
 * Northern region shows strong performance
 * Returning customers contribute significantly to revenue
 
----
-
-## 📸 Dashboard Preview
-
-(Add your screenshots here)
-
-Example:
-![Task 3 Dashboard](Screenshots/Task3.png)
 
 ---
 
